@@ -1,4 +1,4 @@
-# jupyterlab-launcher
+# @alireza.rezaeikalat/jupyterlab-launcher
 
 ![Github Actions Status](https://github.com/my_name/myextension/workflows/Build/badge.svg)
 
@@ -13,7 +13,7 @@ add command to lancher
 ## Install
 
 ```bash
-jupyter labextension install jupyterlab-launcher
+jupyter labextension install @alireza.rezaeikalat/jupyterlab-launcher
 ```
 
 ## Contributing
